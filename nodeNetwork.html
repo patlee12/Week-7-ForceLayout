@@ -13,7 +13,7 @@
     <svg width="100vw" height="100vh" viewBox="0 -60 1200 1000">
     </svg>
     <script>
-        d3.json("../data/publisher.json").then(function (data) {
+        d3.json("publisher.json").then(function (data) {
             let svg = d3.select('svg')
             let width = parseInt(svg.attr("viewBox").split(' ')[2])
             let height = parseInt(svg.attr("viewBox").split(' ')[3])
