@@ -1,0 +1,246 @@
+{
+    "nodes": [
+        {
+            "group": 1,
+            "id": "Elsevier B.V."
+        },
+        {
+            "group": 1,
+            "id": "Academic Press"
+        },
+        {
+            "group": 1,
+            "id": "Springer"
+        },
+        {
+            "group": 1,
+            "id": "Academic Press Inc."
+        },
+        {
+            "group": 1,
+            "id": "Institute of Physics Publishing"
+        },
+        {
+            "group": 1,
+            "id": "Elsevier Ltd"
+        },
+        {
+            "group": 1,
+            "id": "Springer New York LLC"
+        },
+        {
+            "group": 1,
+            "id": "Taylor and Francis Inc."
+        },
+        {
+            "group": 1,
+            "id": "Society for Imaging Science and Technology"
+        },
+        {
+            "group": 1,
+            "id": "International Multidisciplinary Scientific Geoconference"
+        },
+        {
+            "group": 1,
+            "id": "Association for Computing Machinery"
+        },
+        {
+            "group": 1,
+            "id": "Institute of Electrical and Electronics Engineers Inc."
+        },
+        {
+            "group": 1,
+            "id": "BioMed Central Ltd."
+        },
+        {
+            "group": 1,
+            "id": "IADIS"
+        },
+        {
+            "group": 1,
+            "id": "IEEE Computer Society"
+        },
+        {
+            "group": 1,
+            "id": "Elsevier"
+        },
+        {
+            "group": 1,
+            "id": "Kluwer Academic Publishers"
+        },
+        {
+            "group": 1,
+            "id": "Springer Verlag"
+        },
+        {
+            "group": 1,
+            "id": "IEEE, Piscataway, NJ, United States"
+        },
+        {
+            "group": 1,
+            "id": "Elsevier Science B.V., Amsterdam, Netherlands"
+        },
+        {
+            "group": 1,
+            "id": "Academic Press Ltd, London"
+        },
+        {
+            "group": 1,
+            "id": "IEEE, United States"
+        },
+        {
+            "group": 1,
+            "id": "IEEE, Los Alamitos, CA, United States"
+        },
+        {
+            "group": 1,
+            "id": "IEEE Comp Soc, Los Alamitos, CA, United States"
+        },
+        {
+            "group": 1,
+            "id": "ACM, New York, NY, United States"
+        }
+    ],
+    "links": [
+        {
+            "value": 9,
+            "source": "Elsevier B.V.",
+            "target": "Elsevier"
+        },
+        {
+            "value": 4,
+            "source": "Elsevier B.V.",
+            "target": "Springer New York LLC"
+        },
+        {
+            "value": 6,
+            "source": "Elsevier B.V.",
+            "target": "Society for Imaging Science and Technology"
+        },
+        {
+            "value": 17,
+            "source": "Elsevier B.V.",
+            "target": "IEEE, Los Alamitos, CA, United States"
+        },
+        {
+            "value": 2,
+            "source": "Academic Press",
+            "target": "Society for Imaging Science and Technology"
+        },
+        {
+            "value": 1,
+            "source": "Academic Press",
+            "target": "Taylor and Francis Inc."
+        },
+        {
+            "value": 12,
+            "source": "Academic Press",
+            "target": "Academic Press Ltd, London"
+        },
+        {
+            "value": 11,
+            "source": "Academic Press",
+            "target": "IEEE Computer Society"
+        },
+        {
+            "value": 1,
+            "source": "Academic Press",
+            "target": "IEEE, Los Alamitos, CA, United States"
+        },
+        {
+            "value": 2,
+            "source": "Institute of Physics Publishing",
+            "target": "International Multidisciplinary Scientific Geoconference"
+        },
+        {
+            "value": 4,
+            "source": "Elsevier Ltd",
+            "target": "Society for Imaging Science and Technology"
+        },
+        {
+            "value": 4,
+            "source": "Elsevier Ltd",
+            "target": "IEEE Computer Society"
+        },
+        {
+            "value": 2,
+            "source": "Elsevier Ltd",
+            "target": "Springer Verlag"
+        },
+        {
+            "value": 1,
+            "source": "Springer New York LLC",
+            "target": "Springer Verlag"
+        },
+        {
+            "value": 1,
+            "source": "Springer New York LLC",
+            "target": "IEEE, United States"
+        },
+        {
+            "value": 10,
+            "source": "Society for Imaging Science and Technology",
+            "target": "IEEE, Piscataway, NJ, United States"
+        },
+        {
+            "value": 13,
+            "source": "Society for Imaging Science and Technology",
+            "target": "IEEE, Los Alamitos, CA, United States"
+        },
+        {
+            "value": 1,
+            "source": "Society for Imaging Science and Technology",
+            "target": "Kluwer Academic Publishers"
+        },
+        {
+            "value": 5,
+            "source": "Society for Imaging Science and Technology",
+            "target": "Elsevier"
+        },
+        {
+            "value": 2,
+            "source": "Association for Computing Machinery",
+            "target": "Institute of Electrical and Electronics Engineers Inc."
+        },
+        {
+            "value": 2,
+            "source": "Association for Computing Machinery",
+            "target": "Elsevier"
+        },
+        {
+            "value": 4,
+            "source": "Association for Computing Machinery",
+            "target": "IEEE Computer Society"
+        },
+        {
+            "value": 12,
+            "source": "IEEE Computer Society",
+            "target": "IEEE, Los Alamitos, CA, United States"
+        },
+        {
+            "value": 6,
+            "source": "Elsevier",
+            "target": "Kluwer Academic Publishers"
+        },
+        {
+            "value": 18,
+            "source": "Elsevier",
+            "target": "IEEE, Los Alamitos, CA, United States"
+        },
+        {
+            "value": 10,
+            "source": "IEEE, Piscataway, NJ, United States",
+            "target": "IEEE, Los Alamitos, CA, United States"
+        },
+        {
+            "value": 3,
+            "source": "Academic Press Ltd, London",
+            "target": "IEEE, Los Alamitos, CA, United States"
+        },
+        {
+            "value": 15,
+            "source": "IEEE, Los Alamitos, CA, United States",
+            "target": "IEEE Comp Soc, Los Alamitos, CA, United States"
+        }
+    ]
+}
